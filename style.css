@@ -1,0 +1,13 @@
+body{margin:0;}
+#active{color:red;}
+.saw{color:black;}
+a{color:black;}
+h1{font-size:40px; text-align:center; border-bottom:3px solid green;
+   margin:0; padding:20px; padding-bottom :0;}
+ol{border-right:3px solid green; width:130px; margin:0; padding-left:40px;
+  padding-top:20px;  border-bottom:3px solid green; }
+#grid{display:grid; grid-template-columns:130px 1fr;}
+#article{padding-left:60px; border-bottom:3px solid green;}
+#a{padding-left:100px;}
+@media(max-width:780px){h1{border-bottom:none;} ol{board-right:noon;}
+   #grid{display:block;} #article{padding-left:none;}}
