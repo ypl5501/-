@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://ypl5501.github.io/-/sitemap.xml
