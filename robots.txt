@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+sitemap: https://ypl5501.github.io/-/pharmacy.html
